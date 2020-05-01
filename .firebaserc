@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-fotos-b041b": {
+      "hosting": {
+        "proyecto": [
+          "fir-fotos-b041b"
+        ]
+      }
+    }
+  }
+}
