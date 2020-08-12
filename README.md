@@ -19,4 +19,4 @@ To be able to use the application you have to clone the repository to local and 
 
 
 ## Screenshots 
-![alt text](https://github.com/alexdelahaba/fotosFirebase/blob/master/src/assets/screenshots/1.jpg?raw=true)
+![alt text](https://github.com/alexdelahaba/fotosFirebase/blob/master/src/assets/screenshots/1.JPG?raw=true)
